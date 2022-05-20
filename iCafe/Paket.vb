@@ -47,6 +47,14 @@ Public Class Paket
         Me.Close()
     End Sub
 
+    Private Sub Label6_Click(sender As Object, e As EventArgs) Handles Label6.Click
+        About.MdiParent = Main
+        About.Dock = DockStyle.Fill
+        About.Show()
+        Me.Close()
+    End Sub
+
+
     Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
         Try
             Dim result = Helper.HttpRequestGet("billing/verify?token=" + TextBox1.Text)
@@ -72,9 +80,5 @@ Public Class Paket
         Catch ex As Exception
             MsgBox(ex.Message)
         End Try
-    End Sub
-
-    Private Sub Label5_Click(sender As Object, e As EventArgs) Handles Label5.Click
-
     End Sub
 End Class
