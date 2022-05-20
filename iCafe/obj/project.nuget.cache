@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z3W1Lpn+MfMKgB+n71ithXOXKPRuzs4zxVw9S8qhkfqTvWd7EmRqvT51jhXKbKIzf+Zkmv0ajOBd/2AWl9pmmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Whitefall\\Documents\\Visual Studio 2022\\Project\\iCafe\\iCafe\\iCafe.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Whitefall\\.nuget\\packages\\messagingtoolkit.qrcode\\1.3.0\\messagingtoolkit.qrcode.1.3.0.nupkg.sha512",
+    "C:\\Users\\Whitefall\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MessagingToolkit.QRCode 1.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MessagingToolkit.QRCode",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

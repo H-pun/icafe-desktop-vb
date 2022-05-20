@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="About.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Billing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Paket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Scan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WelcomeAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WelcomeUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
