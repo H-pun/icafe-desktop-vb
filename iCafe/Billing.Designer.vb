@@ -63,7 +63,7 @@ Partial Class Billing
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Quantico", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
-        Me.Label1.Location = New System.Drawing.Point(161, 88)
+        Me.Label1.Location = New System.Drawing.Point(161, 99)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(200, 51)
         Me.Label1.TabIndex = 4
