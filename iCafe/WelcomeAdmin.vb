@@ -5,4 +5,11 @@
         WelcomeUser.Show()
         Me.Close()
     End Sub
+
+    Private Sub Label5_Click(sender As Object, e As EventArgs) Handles Label5.Click
+        TopUp.MdiParent = Main
+        TopUp.Dock = DockStyle.Fill
+        TopUp.Show()
+        Me.Close()
+    End Sub
 End Class

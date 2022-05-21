@@ -26,3 +26,5 @@ C:\Users\Whitefall\Documents\Visual Studio 2022\Project\iCafe\iCafe\obj\Debug\ne
 C:\Users\Whitefall\Documents\Visual Studio 2022\Project\iCafe\iCafe\bin\Debug\net6.0-windows\iCafe.dll.config
 C:\Users\Whitefall\Documents\Visual Studio 2022\Project\iCafe\iCafe\obj\Debug\net6.0-windows\iCafe.WelcomeAdmin.resources
 C:\Users\Whitefall\Documents\Visual Studio 2022\Project\iCafe\iCafe\obj\Debug\net6.0-windows\iCafe.About.resources
+C:\Users\Whitefall\Documents\Visual Studio 2022\Project\iCafe\iCafe\obj\Debug\net6.0-windows\iCafe.Login.resources
+C:\Users\Whitefall\Documents\Visual Studio 2022\Project\iCafe\iCafe\obj\Debug\net6.0-windows\iCafe.TopUp.resources

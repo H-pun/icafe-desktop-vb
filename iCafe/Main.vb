@@ -7,9 +7,9 @@
 
     Private Sub Main_KeyDown(sender As Object, e As KeyEventArgs) Handles Me.KeyDown
         If e.KeyCode = Keys.F1 Then
-            WelcomeAdmin.MdiParent = Me
-            WelcomeAdmin.Dock = DockStyle.Fill
-            WelcomeAdmin.Show()
+            Login.MdiParent = Me
+            Login.Dock = DockStyle.Fill
+            Login.Show()
             WelcomeUser.Close()
             Paket.Close()
             Scan.Close()

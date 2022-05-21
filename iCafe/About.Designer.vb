@@ -256,7 +256,7 @@ Partial Class About
         '
         Me.Label14.AutoSize = True
         Me.Label14.Font = New System.Drawing.Font("Quantico", 14.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
-        Me.Label14.Location = New System.Drawing.Point(87, 39)
+        Me.Label14.Location = New System.Drawing.Point(87, 42)
         Me.Label14.Name = "Label14"
         Me.Label14.Size = New System.Drawing.Size(153, 40)
         Me.Label14.TabIndex = 4
