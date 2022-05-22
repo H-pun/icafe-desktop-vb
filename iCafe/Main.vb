@@ -14,6 +14,7 @@
             Paket.Close()
             Scan.Close()
             About.Close()
+            Billing.Close()
         End If
     End Sub
 End Class

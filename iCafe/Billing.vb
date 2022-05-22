@@ -13,9 +13,10 @@
     End Sub
 
     Private Sub Billing_Closed(sender As Object, e As EventArgs) Handles Me.Closed
-        WelcomeUser.MdiParent = Me
+        WelcomeUser.MdiParent = Main
         WelcomeUser.Dock = DockStyle.Fill
         WelcomeUser.Show()
+        Main.Show()
         Paket.Close()
         Scan.Close()
         About.Close()
